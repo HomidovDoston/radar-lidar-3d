@@ -107,3 +107,5 @@ ctr.set_up([0, -1, 0])  # Y o'qi yuqorida
 print("[INFO] Sichqoncha yordamida ko'rinishni burish, g'ildirak yordamida zoom qilish")
 vis.run()
 vis.destroy_window()
+
+
